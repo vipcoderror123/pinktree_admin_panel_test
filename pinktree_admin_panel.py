@@ -18,6 +18,7 @@ LOGGER = logging.getLogger(_name_)
 # git add .
 # git commit -m "commit"
 # git push
+# git status
 
 # to pull to local repo from remote repo
 # git pull
