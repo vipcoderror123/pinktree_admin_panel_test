@@ -14,6 +14,15 @@ from selenium.webdriver.support import expected_conditions as EC
 
 LOGGER = logging.getLogger(_name_)
 
+# to push local to remote repo
+# git add .
+# git commit -m "commit"
+# git push
+
+# to pull to local repo from remote repo
+# git pull
+
+
 class PinktreeIntegrationTest():
     
     def setUp(self):
